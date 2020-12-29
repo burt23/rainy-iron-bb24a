@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/parallel-pine.png
     image_alt: App preview
-    title: Inclusive Early Childhood
+    title: Essential Resources
     content: Inclusive Early Childhood
     actions:
       - label: Learn More
