@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/parallel-pine.png
     image_alt: App preview
     title: Inclusive Early Childhood
     content: Inclusive Early Childhood
