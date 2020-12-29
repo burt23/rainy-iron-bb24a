@@ -6,7 +6,7 @@ sections:
     image: images/parallel-pine.png
     image_alt: App preview
     title: Essential Resources
-    content: Inclusive Early Childhood
+    content: Our goal is to provide access to resources and information
     actions:
       - label: Learn More
         url: /features
