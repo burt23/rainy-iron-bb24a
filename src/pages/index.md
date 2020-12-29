@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: This Is A Big Hero Headline
-    content: inclusive
+    content: Inclusive Early Childhood
     actions:
       - label: Learn More
         url: /features
