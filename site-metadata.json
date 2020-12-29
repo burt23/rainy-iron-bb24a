@@ -1,6 +1,6 @@
 {
     "base_font": "nunito-sans",
-    "palette": "cyan",
+    "palette": "green",
     "header": {
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Logo",
