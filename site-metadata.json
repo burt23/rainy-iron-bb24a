@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "cyan",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo_transparent.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
