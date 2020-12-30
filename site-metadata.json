@@ -2,27 +2,27 @@
     "base_font": "nunito-sans",
     "palette": "cyan",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/twitter_header_photo_1.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Representation",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Curriculum",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "ACES",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Library",
                 "url": "/style-guide",
                 "style": "link"
             },
