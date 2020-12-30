@@ -1,8 +1,6 @@
 ---
 title: About
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Early Childhood Special Education Resource
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page
