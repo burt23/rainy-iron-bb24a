@@ -5,7 +5,9 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Sharing Resources for early childhood special educators
-    content: Our goal is to provide access to resources and information
+    content: >-
+      This website highlights other educators, organizations, and programs
+      within the field of early childhood special education. 
     actions:
       - label: Learn More
         url: /features
