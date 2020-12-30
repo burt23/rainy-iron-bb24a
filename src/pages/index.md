@@ -27,9 +27,13 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          The importance of representing people for all of their unique
+          differences, and seeing those differences from positions of strength
+          rather than deficit-based. This helps to develop a sense of curiousity
+          towards other people and cultivating an awareness of others, without
+          perpetuating historical narratives of marginalization that people from
+          different backgrounds, ethnicities, religions, and abilities that
+          people face. 
         actions:
           - label: Learn More
             url: /features
