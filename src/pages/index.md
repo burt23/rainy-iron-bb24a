@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/parallel-pine.png
     image_alt: App preview
-    title: Essential Resources
+    title: Sharing Resources for early childhood special educators
     content: Our goal is to provide access to resources and information
     actions:
       - label: Learn More
