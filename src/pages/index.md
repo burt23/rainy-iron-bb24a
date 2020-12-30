@@ -7,7 +7,10 @@ sections:
     title: Sharing Resources for early childhood special educators
     content: >-
       This website highlights other educators, organizations, and programs
-      within the field of early childhood special education. 
+      within the field of early childhood special education. In the process, we
+      aim to highlight resources that share foundational ideas about the
+      importance of accepting all ability levels and nurturing a sense of
+      belonging and community for young children and their families. 
     actions:
       - label: Learn More
         url: /features
