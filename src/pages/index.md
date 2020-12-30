@@ -67,8 +67,8 @@ sections:
     background: white
     title: Library
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      Relevant books for parents, educators, and teacher educators working with
+      young children of all abilities
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
