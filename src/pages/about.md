@@ -1,5 +1,5 @@
 ---
-title: About
+title: 'Inclusive Early Childhood: a resource center'
 subtitle: Early Childhood Special Education Resource
 image: images/about.jpg
 image_alt: Team members in a conference room
