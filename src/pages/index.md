@@ -23,7 +23,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Representing human diversity
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
