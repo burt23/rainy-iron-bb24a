@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/parallel-pine.png
     image_alt: App preview
     title: Sharing Resources for early childhood special educators
     content: Our goal is to provide access to resources and information
