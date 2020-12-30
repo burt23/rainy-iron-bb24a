@@ -1,6 +1,6 @@
 ---
 title: "Inclusive Early Childhood:\_ \_ \_ \_ \_a resource center"
-subtitle: Early Childhood Special Education Resource
+subtitle: ''
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page
