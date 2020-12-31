@@ -1,5 +1,5 @@
 ---
-title: 'Inclusive Early Childhood:a resource center'
+title: 'Inclusive Early Childhood:<br />a resource center'
 subtitle: ''
 image: images/about.jpg
 image_alt: Team members in a conference room
